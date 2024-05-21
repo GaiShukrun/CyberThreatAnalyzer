@@ -2,7 +2,7 @@ import tkinter as tk
 import os
 
 # Define the directory where the scripts are located
-SCRIPTS_DIRECTORY = r"C:\Users\gaiso\OneDrive\Desktop\Cyber_Use_Cases-main"
+SCRIPTS_DIRECTORY = r"C:\Users\..."
 
 def run_script(script_name):
     script_path = os.path.join(SCRIPTS_DIRECTORY, f"{script_name}.py")
