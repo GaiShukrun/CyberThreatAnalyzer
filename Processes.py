@@ -7,8 +7,8 @@ import requests
 import threading
 import queue
 import json
-
-api_key = "7c014c9e3e5a1633f2b46b5918ded1980f3303e1f43fe76bea05f61b085d1eeb2d55284050f921b6"
+#put your AbuseIPDB below:
+api_key = 
 
 network_info = {}
 checked_ips = set()
